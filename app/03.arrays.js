@@ -1,4 +1,4 @@
-console.log('Topic: Arrays');
+console.log("Topic: Arrays");
 
 // Task 01
 // RU: Создать массив. Получить последний элемент массива.
@@ -29,9 +29,6 @@ console.log('Topic: Arrays');
 //     1. mutate current array;
 //     2. create a new array.
 //     Disply them in the conole.
-
-
-
 
 // Task 04
 // RU: Создать массив любых элементов.

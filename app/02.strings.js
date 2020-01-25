@@ -1,4 +1,4 @@
-console.log('Topic: Strings');
+console.log("Topic: Strings");
 // Task 01. padStart
 // RU: Объявите три переменных: hour, minute, second.
 //     Присвойте им следующие значения: 4, 35, 5.

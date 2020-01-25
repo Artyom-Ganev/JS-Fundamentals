@@ -1,4 +1,4 @@
-console.log('Topic: Objects');
+console.log("Topic: Objects");
 
 // Task 01
 // RU: Создать функцию-конструктор Tune(title, artist) для создания объектов

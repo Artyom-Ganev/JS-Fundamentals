@@ -1,4 +1,4 @@
-console.log('Topic: Iterators');
+console.log("Topic: Iterators");
 // Task 1
 // RU: Написать функцию keyValueIterable(target),
 //     которая на вход получает объект и возвращает итерируемый объект.
@@ -19,12 +19,11 @@ console.log('Topic: Iterators');
 //   console.log(color);
 // }
 
-
 // Task 2
 // RU: В коллекции хранятся все имена пользователей, которые присоединились к определенной группе телеграмм.
 //     Булевый флаг указывает, является ли пользователь администратором группы.
 //     Создайте итератор, который возвращает только имена администраторов.
-// EN: The following collection store all the names of the user that have joined a particular telegram group. 
+// EN: The following collection store all the names of the user that have joined a particular telegram group.
 //     The boolean flag indicates whether a user is an administrator of the group.
 //     Сreatereate an iterator that returns only the administrators' names.
 
@@ -36,8 +35,7 @@ console.log('Topic: Iterators');
 //   elena: false,
 //   felix: true,  // admin
 // };
-// [...users].forEach(name => console.log(name)); // boris, felix 
-
+// [...users].forEach(name => console.log(name)); // boris, felix
 
 // Task 3
 // RU: Написать функцию take(sequence, amount), которая из бесконечного итерируемого объекта random
@@ -56,7 +54,6 @@ console.log('Topic: Iterators');
 // const a = [...take(random, 3)];
 // console.log(a);
 
-
 // Task 4
 // RU: Написать итерируемый итератор, который возвращает числа Фибоначи
 //     Реализовать метод return для остановки итератора с помощью for-of + break
@@ -67,7 +64,6 @@ console.log('Topic: Iterators');
 //   console.log(v);
 //   if (v > 50) break;
 // }
-
 
 // Task 5
 // RU: Написать итератор для чисел, который позволит получать массивы последовательных целых элементов.
